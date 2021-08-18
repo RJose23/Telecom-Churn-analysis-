@@ -1,10 +1,14 @@
 # Telecom-Churn-analysis
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
 
-*hi
-
-Exploratory data analysis of Telecom churn dataset from Kaggle
-
+###About the project
+</br>
+This Exploratory data analysis project of a Telecom churn dataset obtained from Kaggle was done on python and the visualisations were done using matplotlib and seaborn libraries.
+</br>
+Any form of feedback or constructive criticism is appreciated. To do so, kindly connect with me on Linkedin. Have a great day! 
+</br>
+<hr>
+</br>
 [Telecom churn analysis.pdf](https://github.com/RJose23/Telecom-Churn-analysis-/files/6988181/Telecom.churn.analysis.pdf)
 
 
