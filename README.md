@@ -21,6 +21,8 @@ This is an Exploratory data analysis project of a Telecom churn dataset obtained
 </br>
 Any form of feedback or constructive criticism is appreciated. To do so, kindly connect with me on Linkedin. Have a great day! 
 </br>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-jose)
+</br>
 <hr>
 </br>
 [Telecom churn analysis.pdf](https://github.com/RJose23/Telecom-Churn-analysis-/files/6988181/Telecom.churn.analysis.pdf)
