@@ -13,9 +13,10 @@ Any form of feedback or constructive criticism is appreciated. To do so, kindly 
 [Telecom churn analysis.pdf](https://github.com/RJose23/Telecom-Churn-analysis-/files/6988181/Telecom.churn.analysis.pdf)
 
 </br>
- ![1](https://user-images.githubusercontent.com/75290844/129480072-5a30ed52-b07e-4847-a832-a9aaf00b8ae0.jpg)
+
+![1](https://user-images.githubusercontent.com/75290844/129480072-5a30ed52-b07e-4847-a832-a9aaf00b8ae0.jpg)
  
- ![2](https://user-images.githubusercontent.com/75290844/129480298-6162f916-68b1-459f-8495-797cdf592a91.jpg)
+![2](https://user-images.githubusercontent.com/75290844/129480298-6162f916-68b1-459f-8495-797cdf592a91.jpg)
  
 ![3](https://user-images.githubusercontent.com/75290844/129480299-899cdef4-2303-4777-90b6-a9d84cd8ad42.jpg)
 
