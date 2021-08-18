@@ -29,3 +29,6 @@ Exploratory data analysis of Telecom churn dataset from Kaggle
 
 ![11](https://user-images.githubusercontent.com/75290844/129480296-a7c3a469-8925-4110-b26b-2f8fb04d4e1c.jpg)
 
+</br>
+</br>
+<hr>
