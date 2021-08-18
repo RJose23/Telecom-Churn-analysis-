@@ -4,7 +4,7 @@
 ### About the project
 </br>
 This Exploratory data analysis project of a Telecom churn dataset obtained from Kaggle was done on python and the visualisations were done using matplotlib and seaborn libraries.
-https://img.shields.io/badge/Library-Seaborn-yellowgreen 
+![https://img.shields.io/badge/Library-Seaborn-yellowgreen ]
 https://img.shields.io/badge/Library-Matplotlib-yellowgreen 
 https://img.shields.io/badge/Library-NumPy-yellowgreen 
 https://img.shields.io/badge/Library-Pandas-yellowgreen
