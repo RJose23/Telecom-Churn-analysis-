@@ -11,8 +11,11 @@ This is an Exploratory data analysis project of a Telecom churn dataset obtained
 ### Tools used
 </br>
 ![Seabornlogo](https://img.shields.io/badge/Library-Seaborn-yellowgreen)
+
 ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-yellowgreen)
+
 ![Numpy](https://img.shields.io/badge/Library-NumPy-yellowgreen )
+
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellowgreen)
 </br> 
 </br>
