@@ -5,7 +5,7 @@
 </br>
 This Exploratory data analysis project of a Telecom churn dataset obtained from Kaggle was done on python and the visualisations were done using matplotlib and seaborn libraries.
 
-[![Linkedin logo]https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F774%2F981%2Fpng-clipart-linkedin-linkedin.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dlinkedin&tbnid=D1jrNQwcz0AmMM&vet=12ahUKEwii0MebrrryAhXAgksFHajlBtQQMygMegUIARDbAQ..i&docid=_gkKiIaj7fKe0M&w=900&h=291&q=linkedin%20png&ved=2ahUKEwii0MebrrryAhXAgksFHajlBtQQMygMegUIARDbAQ]
+[![Linkedin logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F774%2F981%2Fpng-clipart-linkedin-linkedin.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dlinkedin&tbnid=D1jrNQwcz0AmMM&vet=12ahUKEwii0MebrrryAhXAgksFHajlBtQQMygMegUIARDbAQ..i&docid=_gkKiIaj7fKe0M&w=900&h=291&q=linkedin%20png&ved=2ahUKEwii0MebrrryAhXAgksFHajlBtQQMygMegUIARDbAQ)]
 https://img.shields.io/badge/Library-Seaborn-yellowgreen)
 https://img.shields.io/badge/Library-Matplotlib-yellowgreen 
 https://img.shields.io/badge/Library-NumPy-yellowgreen 
